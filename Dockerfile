@@ -1,3 +1,4 @@
+# https://github.com/linuxserver/docker-code-server
 FROM lscr.io/linuxserver/code-server:latest
 # install nvm
 RUN curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
